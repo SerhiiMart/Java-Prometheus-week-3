@@ -28,11 +28,11 @@ public class Point {
 		draw(1L, 2L);
 	}
 	
-	
-	public void draw() {
-		//some theoretical code
-		// Color
-	}
+//	
+//	public void draw() {
+//		//some theoretical code
+//		// Color
+//	}
 	
 	
 	public int getColor() {
