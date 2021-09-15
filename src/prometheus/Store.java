@@ -1,4 +1,5 @@
 package prometheus;
+
 public class Store {
   // instance fields
   String productType;

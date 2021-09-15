@@ -1,0 +1,72 @@
+[33mcommit 493a675e798606625f9f77b42236bd01fbf096bd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Serhii <malgothsm@gmail.com>
+Date:   Wed Sep 15 17:08:12 2021 +0300
+
+    Added simple store app
+
+[33mcommit 9b25e9032a1ae277ee0e23bda34161442636c5f3[m
+Author: Serhii <malgothsm@gmail.com>
+Date:   Wed Sep 15 15:31:08 2021 +0300
+
+    update 1
+
+[33mcommit 962fef70be58d035e5897cf5021caedce7f58d0f[m
+Author: Serhii <malgothsm@gmail.com>
+Date:   Wed Sep 15 14:40:05 2021 +0300
+
+    update
+
+[33mcommit 920b8d8dc1cedf42d0eca04d14d73ac4899267ee[m
+Author: Serhii <malgothsm@gmail.com>
+Date:   Tue Sep 14 19:45:10 2021 +0300
+
+    final keyword
+
+[33mcommit 6cdf2f3e43c2462d46685975a86b6a943d6452ac[m
+Author: Serhii <malgothsm@gmail.com>
+Date:   Tue Sep 14 19:34:10 2021 +0300
+
+    zebras
+
+[33mcommit 0b71893ad906bda0caa924ccdaaf08609cef7c21[m
+Author: Serhii <malgothsm@gmail.com>
+Date:   Tue Sep 14 19:30:12 2021 +0300
+
+    Strings
+
+[33mcommit fba9d0e4105ee1225270728d6194192f184ee69c[m
+Author: Serhii <malgothsm@gmail.com>
+Date:   Tue Sep 14 19:28:13 2021 +0300
+
+    Update 2
+
+[33mcommit 1faa2153a7c2a459ab1108f91afa78810dea3ad8[m
+Merge: 50d33a0 6fc78ed
+Author: Serhii <malgothsm@gmail.com>
+Date:   Mon Sep 13 19:26:25 2021 +0300
+
+    Merge branch 'master' of https://github.com/SerhiiMart/Java-Prometheus-week-3
+
+[33mcommit 50d33a09937df6321a8a1032835ed298de95f9e8[m
+Author: Serhii <malgothsm@gmail.com>
+Date:   Mon Sep 13 19:25:32 2021 +0300
+
+    Update
+
+[33mcommit 6fc78edc253304de0bbb3f767f63ccff254e5ea6[m
+Author: Serhii Martyniuk <malgothsm@gmail.com>
+Date:   Mon Sep 13 18:32:18 2021 +0300
+
+    Update README.md
+
+[33mcommit 5bd29941369c30a5ddc13ccca4582105c8a02b26[m
+Author: Serhii Martyniuk <malgothsm@gmail.com>
+Date:   Mon Sep 13 18:25:08 2021 +0300
+
+    Create README.md
+
+[33mcommit ab0b6681ad3750233f101ec31f9ef58f6d8ad3df[m
+Author: Serhii <malgothsm@gmail.com>
+Date:   Mon Sep 13 18:24:05 2021 +0300
+
+    Starting week 3
