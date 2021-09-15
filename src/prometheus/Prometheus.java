@@ -5,9 +5,12 @@ public class Prometheus {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-	    final double pi = 3.14; // final can't be changed
-		  	System.out.println(pi);
-	      pi = 3.56;
+	      double balance = 1000.75;
+	      double amountToWithdraw = 250;
+	      double updatedBalance = balance - amountToWithdraw;
+	      double amountForEachFriend = updatedBalance/3;
+	      boolean canPurchaseTicket = amountForEachFriend >= 250;
+	      System.out.println(canPurchaseTicket);
 	}
 
 }
