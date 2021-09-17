@@ -37,9 +37,12 @@ public class Reservation {
 	  public static void main(String[] args) {
 	    Reservation partyOfThree = new Reservation(3, 12, true);
 	    Reservation partyOfFour = new Reservation(4, 3, true);
-	    partyOfThree.confirmReservation();
-	    partyOfThree.informUser();
-	    partyOfFour.confirmReservation();
-	    partyOfFour.informUser();
+	    Reservation burger = new Reservation(30, 12, true);
+//	    partyOfThree.confirmReservation();
+//	    partyOfThree.informUser();
+//	    partyOfFour.confirmReservation();
+//	    partyOfFour.informUser();
+	    burger.confirmReservation();
+	    burger.informUser();
 	  }
 	}
